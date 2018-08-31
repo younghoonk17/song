@@ -1,0 +1,10 @@
+G:\git\church_song\song\bin\Debug\netcoreapp2.0\song.deps.json
+G:\git\church_song\song\bin\Debug\netcoreapp2.0\song.runtimeconfig.json
+G:\git\church_song\song\bin\Debug\netcoreapp2.0\song.runtimeconfig.dev.json
+G:\git\church_song\song\bin\Debug\netcoreapp2.0\song.dll
+G:\git\church_song\song\bin\Debug\netcoreapp2.0\song.pdb
+G:\git\church_song\song\obj\Debug\netcoreapp2.0\song.csproj.CoreCompileInputs.cache
+G:\git\church_song\song\obj\Debug\netcoreapp2.0\song.AssemblyInfoInputs.cache
+G:\git\church_song\song\obj\Debug\netcoreapp2.0\song.AssemblyInfo.cs
+G:\git\church_song\song\obj\Debug\netcoreapp2.0\song.dll
+G:\git\church_song\song\obj\Debug\netcoreapp2.0\song.pdb
